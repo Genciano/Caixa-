@@ -1,0 +1,16 @@
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\obj\Debug\net5.0\Exercício caixa (Desenvolver sistemas).csproj.AssemblyReference.cache
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\obj\Debug\net5.0\Exercício caixa (Desenvolver sistemas).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\obj\Debug\net5.0\Exercício caixa (Desenvolver sistemas).AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\obj\Debug\net5.0\Exercício caixa (Desenvolver sistemas).AssemblyInfo.cs
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\obj\Debug\net5.0\Exercício caixa (Desenvolver sistemas).csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\bin\Debug\net5.0\Exercício caixa (Desenvolver sistemas).exe
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\bin\Debug\net5.0\Exercício caixa (Desenvolver sistemas).deps.json
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\bin\Debug\net5.0\Exercício caixa (Desenvolver sistemas).runtimeconfig.json
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\bin\Debug\net5.0\Exercício caixa (Desenvolver sistemas).runtimeconfig.dev.json
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\bin\Debug\net5.0\Exercício caixa (Desenvolver sistemas).dll
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\bin\Debug\net5.0\ref\Exercício caixa (Desenvolver sistemas).dll
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\bin\Debug\net5.0\Exercício caixa (Desenvolver sistemas).pdb
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\obj\Debug\net5.0\Exercício caixa (Desenvolver sistemas).dll
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\obj\Debug\net5.0\ref\Exercício caixa (Desenvolver sistemas).dll
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\obj\Debug\net5.0\Exercício caixa (Desenvolver sistemas).pdb
+C:\Users\Matheus\source\repos\Exercício caixa (Desenvolver sistemas)\Exercício caixa (Desenvolver sistemas)\obj\Debug\net5.0\Exercício caixa (Desenvolver sistemas).genruntimeconfig.cache
